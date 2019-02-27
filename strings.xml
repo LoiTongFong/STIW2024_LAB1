@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">UnitConversionCalculator</string>
+
+    <string-array name="distance">
+        <item>Meters</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yard</item>
+        <item>Miles</item>
+        <item>Nautical Miles</item>
+    </string-array>
+
+    <string-array name="weight">
+        <item>Kilograms</item>
+        <item>Ounces</item>
+        <item>Pounds</item>
+        <item>Troy Pounds</item>
+        <item>Stones</item>
+        <item>Short Tons</item>
+        <item>Long Tons</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>Liters</item>
+        <item>Fluid Ounces</item>
+        <item>Quarts</item>
+        <item>Gallons</item>
+        <item>Miles</item>
+        <item>Imperial Gallons</item>
+    </string-array>
+</resources>
